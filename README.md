@@ -44,6 +44,7 @@ It contains details about COVID-19 research papers, including:
 
 ## 📖 Project Structure
 
+```
 Frameworks_Assignment/
 ├── app.py                 # Streamlit application
 ├── create_sample.py       # Script to generate a smaller dataset
@@ -53,6 +54,8 @@ Frameworks_Assignment/
 ├── part2_cleaning.py      # Data cleaning
 ├── requirements.txt       # Dependencies
 └── README.md              # Documentation
+```
+
 
 
 
