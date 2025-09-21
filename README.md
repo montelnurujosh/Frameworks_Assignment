@@ -55,36 +55,36 @@ Frameworks_Assignment/
 │── README.md # Documentation
 
 
-📊 Features
 
-📈 Publications over time – bar chart of paper counts by year
+---
 
-🏛 Top journals – ranking of publishing journals
+## 📊 Features
 
-☁️ Word cloud – most frequent terms in paper titles
+- 📈 **Publications over time** – bar chart of paper counts by year  
+- 🏛 **Top journals** – ranking of publishing journals  
+- ☁️ **Word cloud** – most frequent terms in paper titles  
+- 🎛 **Interactive filtering** – filter papers by year range  
+- 📂 **Data preview** – sample of the dataset  
 
-🎛 Interactive filtering – filter papers by year range
+---
 
-📂 Data preview – sample of the dataset
+## 🚀 Live Demo
 
-🚀 Live Demo
+👉 [Click here to view the deployed Streamlit app](https://your-streamlit-app-link.streamlit.app)  
+*(Replace with your actual Streamlit Cloud link after deployment)*
 
-👉 Click here to view the deployed Streamlit app
+---
 
-(Replace with your actual Streamlit Cloud link after deployment)
+## 📝 Evaluation Criteria
 
-📝 Evaluation Criteria
+- **Complete implementation (40%)** – all tasks completed  
+- **Code quality (30%)** – clear, commented, structured code  
+- **Visualizations (20%)** – meaningful, easy to interpret  
+- **Streamlit app (10%)** – functional, interactive application  
 
-Complete implementation (40%) – all tasks completed
+---
 
-Code quality (30%) – clear, commented, structured code
+## ✨ Author
 
-Visualizations (20%) – meaningful, easy to interpret
-
-Streamlit app (10%) – functional, interactive application
-
-✨ Author
-
-Student: Joshua Nuru
-
-Course: Frameworks Assignment
+- **Student:** Joshua Nuru  
+- **Course:** Frameworks Assignment  
