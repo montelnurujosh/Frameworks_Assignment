@@ -45,14 +45,14 @@ It contains details about COVID-19 research papers, including:
 ## 📖 Project Structure
 
 Frameworks_Assignment/
-│── app.py # Streamlit application
-│── create_sample.py # Script to generate a smaller dataset
-│── metadata_clean.csv # Cleaned dataset
-│── metadata_sample.csv # Sample dataset (for sharing/deployment)
-│── part1_exploration.py # Data exploration
-│── part2_cleaning.py # Data cleaning
-│── requirements.txt # Dependencies
-│── README.md # Documentation
+│── app.py                 # Streamlit application
+│── create_sample.py       # Script to generate a smaller dataset
+│── metadata_clean.csv     # Cleaned dataset
+│── metadata_sample.csv    # Sample dataset (for sharing/deployment)
+│── part1_exploration.py   # Data exploration
+│── part2_cleaning.py      # Data cleaning
+│── requirements.txt       # Dependencies
+│── README.md              # Documentation
 
 
 
@@ -70,8 +70,8 @@ Frameworks_Assignment/
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed Streamlit app](https://your-streamlit-app-link.streamlit.app)  
-*(Replace with your actual Streamlit Cloud link after deployment)*
+👉 [Click here to view the deployed Streamlit app](https://frameworksassignment-9rxhrmkymnabrjqjfsvvk3.streamlit.app/)  
+
 
 ---
 
